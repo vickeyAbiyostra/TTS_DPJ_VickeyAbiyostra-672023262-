@@ -16,7 +16,7 @@ $(document).ready(function () {
       // Tipe permintaan adalah GET
       dataType: 'json',
       // Data yang diterima diharapkan dalam format JSON
-      url: 'api.php',
+      url: 'https://vickeyabiyostra.github.io/TTS_DPJ_VickeyAbiyostra-672023262-/apii.json',
       // URL tujuan permintaan adalah 'api.php'
       
       success: function (result) {
